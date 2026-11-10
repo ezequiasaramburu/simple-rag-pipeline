@@ -1,1 +1,3 @@
-# simple-rag-pipeline
+# Simple RAG Pipeline
+
+![](./assets/architecture.png)
